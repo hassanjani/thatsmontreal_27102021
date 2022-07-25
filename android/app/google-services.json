@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064795490851",
+    "firebase_url": "https://that-s-montreal-app.firebaseio.com",
+    "project_id": "that-s-montreal-app",
+    "storage_bucket": "that-s-montreal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064795490851:android:de3daa62dfd957a8047f96",
+        "android_client_info": {
+          "package_name": "com.desirclaudel.thatsmontreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064795490851-gcrtm1pktsov1jm93vpleqkoe5gfarn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desirclaudel.thatsmontreal",
+            "certificate_hash": "d82c1ca9e152f20e92c51dff73fba56732f1afd6"
+          }
+        },
+        {
+          "client_id": "1064795490851-c1o8c7gni8oif2317ljvnn6m7bo4emq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGMajp-t0eVtyqc8BYqTSGM5bqLUXzAQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064795490851-c1o8c7gni8oif2317ljvnn6m7bo4emq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
